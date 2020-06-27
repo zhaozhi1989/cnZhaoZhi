@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/practice-add/practice-add.iml" filepath="$PROJECT_DIR$/practice-add/practice-add.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice-api/practice-api.iml" filepath="$PROJECT_DIR$/practice-api/practice-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice-minus/practice-minus.iml" filepath="$PROJECT_DIR$/practice-minus/practice-minus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practice-service-starter/practice-service-starter.iml" filepath="$PROJECT_DIR$/practice-service-starter/practice-service-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/practicestart.iml" filepath="$PROJECT_DIR$/practicestart.iml" />
+    </modules>
+  </component>
+</project>

@@ -3,5 +3,7 @@
 ------
 
 1、reading-writing-separation：读写分离
+
 2、split-repository-split-table：分库分表
+
 3、建表语句查看ddl.sql文件
